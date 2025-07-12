@@ -9,7 +9,7 @@ I have a **Master's Degree** in **Computer Science**
 
 **Senior Full-Stack Java & Vue.js Developer** \
 with **over 6 years** of expertise in **Software Development** 
-
+<!--
 ### Social Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-klimchuk) 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aliaksandr-klimchuk) 
@@ -22,7 +22,7 @@ with **over 6 years** of expertise in **Software Development**
 **Email:** [alex_klimchuk@icloud.com](mailto:alex_klimchuk@icloud.com) 
 
 **Location:** Wroclaw, Poland
-
+-->
 ## Languages
 * **English** - Advanced
 * **Russian** - Native
